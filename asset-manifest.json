@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "https://ganeshmandapati.github.io/csb-rz3q5/static/css/main.925c4c99.chunk.css",
-    "main.js": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/main.f07f2936.chunk.js",
-    "main.js.map": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/main.f07f2936.chunk.js.map",
+    "main.css": "https://ganeshmandapati.github.io/csb-rz3q5/static/css/main.fb4d7b7d.chunk.css",
+    "main.js": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/main.bdf1149d.chunk.js",
+    "main.js.map": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/main.bdf1149d.chunk.js.map",
     "runtime-main.js": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/runtime-main.ac088cfa.js",
     "runtime-main.js.map": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/runtime-main.ac088cfa.js.map",
     "static/js/2.0c2c4161.chunk.js": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/2.0c2c4161.chunk.js",
     "static/js/2.0c2c4161.chunk.js.map": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/2.0c2c4161.chunk.js.map",
     "index.html": "https://ganeshmandapati.github.io/csb-rz3q5/index.html",
-    "static/css/main.925c4c99.chunk.css.map": "https://ganeshmandapati.github.io/csb-rz3q5/static/css/main.925c4c99.chunk.css.map",
+    "static/css/main.fb4d7b7d.chunk.css.map": "https://ganeshmandapati.github.io/csb-rz3q5/static/css/main.fb4d7b7d.chunk.css.map",
     "static/js/2.0c2c4161.chunk.js.LICENSE.txt": "https://ganeshmandapati.github.io/csb-rz3q5/static/js/2.0c2c4161.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ac088cfa.js",
     "static/js/2.0c2c4161.chunk.js",
-    "static/css/main.925c4c99.chunk.css",
-    "static/js/main.f07f2936.chunk.js"
+    "static/css/main.fb4d7b7d.chunk.css",
+    "static/js/main.bdf1149d.chunk.js"
   ]
 }
