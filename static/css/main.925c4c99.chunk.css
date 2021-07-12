@@ -1,0 +1,2 @@
+.App{font-family:sans-serif;width:600px;margin:auto}.addTask{flex-direction:column;background-color:#f8f8ff}.addTask,.taskHeader{display:flex;align-items:center;padding:10px;border:2px solid grey}.taskHeader{justify-content:space-between;background-color:silver}.taskItem{background-color:#dae2e2}.taskItem .taskDate{color:red}.taskItem .taskMsg{font-weight:700}select{font-size:16px;height:24px;padding:3px}.taskList{display:flex;flex-direction:column}
+/*# sourceMappingURL=main.925c4c99.chunk.css.map */
